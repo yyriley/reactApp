@@ -1,5 +1,4 @@
 import Expenses from './components/Expenses.js';
-
 function App() {
   const expenses = [
     {
@@ -29,5 +28,4 @@ function App() {
     </div>
   );
 }
-
 export default App;
